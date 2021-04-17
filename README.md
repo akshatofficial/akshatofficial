@@ -28,7 +28,7 @@ I'm interested in making applications 🔨 which helps in solving Real Life Prob
  </li>
   <li>👀 I’m interested in creating applications that Helps 👊.</li>
   <li>🌱 I’m currently learning React.</li>
-  <li>📫 How to reach me: <a href="mailto:akshatoffical2019@gmail.com"><a/>akshatoffical2019@gmail.com</li>
+  <li>📫 How to reach me: <a href="mailto:akshatoffical2019@gmail.com"></a>akshatoffical2019@gmail.com</li>
   <li>⚡️ Available for Freelance projects/internship opportunities</li>
 </ul>
 </p>

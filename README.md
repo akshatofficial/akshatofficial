@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" height="30" style="vertical-align:top; margin:4px"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" height="30" style="vertical-align:top; margin:4px"/>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat Tripathi" /> </p>
 
 ![Akshat GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatofficial&show_icons=true&theme=tokyonight)
 <br/>

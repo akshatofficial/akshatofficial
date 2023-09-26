@@ -21,13 +21,12 @@
 <hr/>
 
 <p>
-Currently, I'm a Mathematics and Computing Sophomore 🎓 at <a href="https://www.iitism.ac.in/" rel="nofollow">IIT (ISM) Dhanbad</a>. I am a web developer 💻 at ACM Club.
-I'm interested in making applications 🔨 which helps in solving Real Life Problems. I like to sing 🎼 in my leisure time.
+I'm currently an understudy at IIT(ISM) Dhanbad, pursuing Integrated M. Tech in Mathematics and Computing. My passion lies in Backend Development and understanding the technologies behind the outstanding backend deliveries. I am also an experienced ReactJS developer. I'm currently focusing on learning typescript and implementing it in my projects. I enjoy very much doing Sports Programming on Codeforces and Leetcode. In my free time, I enjoy watching movies.
 <ul>
   <li>Sport Programmer in making  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"></a>
  </li>
   <li>👀 I’m interested in creating applications that Helps 👊.</li>
-  <li>🌱 I’m currently learning React.</li>
+  <li>🌱 I’m currently learning Probablility and Statistics.</li>
   <li>📫 How to reach me: <a href="mailto:akshatoffical2019@gmail.com">akshatoffical2019@gmail.com</a></li>
   <li>⚡️ Available for Freelance projects/internship opportunities</li>
 </ul>
